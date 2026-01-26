@@ -54,9 +54,8 @@ Portfolio personal con proyectos y contacto profesional.
 
 ## 🌐 Contacto
 
-📧 Email: cabrera.blas.mj@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/matias-cabrera-9a22b31a6  
-🐙 GitHub: https://github.com/matcabrera157  
+📧 Email: cabrera.blas.mj@gmail.com
+🐙 GitHub: https://github.com/matcabrera157
 
 ---
 
