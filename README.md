@@ -39,7 +39,8 @@ Aplicación web tipo e-commerce desarrollada con **Node.js y Express**.
 - Arquitectura MVC con rutas separadas y uso de middleware  
 - Consumo de API externa mediante **Axios**  
 
-🔗 Repositorio: https://github.com/matcabrera157/mercado-gamer  
+🔗 Frontend: https://github.com/matcabrera157/Proyecto_FrontEnd  
+🔗 Backend: https://github.com/matcabrera157/Proyecto-Backend   
 🚀 Deploy: Aplicación desplegada en **Vercel**
 
 ---
