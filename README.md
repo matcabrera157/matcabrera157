@@ -10,7 +10,7 @@ Enfoque en Back End con Node.js, Express, CRUD y APIs REST dentro de arquitectur
 ## 💻 Stack principal
 
 **Back End:** Node.js · Express  
-**Front End:** HTML5 · CSS3 · JavaScript · Bootstrap  
+**Front End:** HTML5 · CSS3 · JavaScript · Bootstrap · React
 **Bases de datos:** MySQL · MongoDB  
 **Herramientas:** Git · GitHub · Postman · nodemon  
 
