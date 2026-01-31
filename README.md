@@ -1,7 +1,7 @@
 # 👋 Hola, soy Matias Cabrera
 
-Soy **Programador Web Full Stack Jr** con formación en **UTN** y experiencia práctica en el desarrollo de una aplicación web completa.  
-Enfoque en desarrollo Back End con **Node.js, Express, CRUD y APIs REST**, dentro de arquitecturas cliente-servidor.
+**Programador Web Full Stack Jr** con formación en **UTN** y experiencia práctica desarrollando aplicaciones web completas.  
+Enfoque en Back End con Node.js, Express, CRUD y APIs REST dentro de arquitecturas cliente-servidor.
 
 📍 Argentina
 
