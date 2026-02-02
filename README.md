@@ -59,6 +59,8 @@ Portfolio personal con proyectos y contacto profesional.
 
 🐙 GitHub: https://github.com/matcabrera157
 
+💼 LinkedIn: https://www.linkedin.com/in/matias-cabrera-mj/
+
 ---
 
 ⭐ Gracias por visitar mi perfil
